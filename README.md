@@ -19,14 +19,18 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-
+<!--
 # 📊 GitHub Stats
+-->
 
 <!-- Github stats from https://github.com/kumikohello/github-readme-stats -->
+<!--
 ![Kumiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumikohello&show_icons=true&theme=tokyonight)
+-->
 
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kumikohello&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
