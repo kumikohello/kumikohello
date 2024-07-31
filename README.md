@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Kumiko!
 
 🧠 Sophomore studying Cognitive Science, Economics, and Computer Science at the University of Chicago<br/>
-💻 Interested in Software Development, Machine Learning, and AI<br/>
+💻 Interested in Machine Learning, AI, Software Development, and Web Development<br/>
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumiko-ueda/)
 
 
