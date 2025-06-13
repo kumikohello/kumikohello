@@ -4,7 +4,7 @@
 
 🧠 Sophomore studying Cognitive Science and Computational and Applied Mathematics at the University of Chicago<br/>
 💻 Interested in Research, Memory, Decision-making, Machine Learning, AI, Software Development, and Web Development<br/>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumiko-ueda/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumiko-ueda/) or [Academic Website](https://kumikohello.github.io/)
 
 
 # 💻 Tech Stack
